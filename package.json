@@ -1,0 +1,20 @@
+{
+  "name": "project_uflix",
+  "version": "1.0.0",
+  "description": "Plataforma de Streaming",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayqueSekishiki/Project_UFlix.git"
+  },
+  "author": "Kayque Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KayqueSekishiki/Project_UFlix/issues"
+  },
+  "homepage": "https://github.com/KayqueSekishiki/Project_UFlix#readme"
+}
